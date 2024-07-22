@@ -17,8 +17,11 @@ Assumptions:
 
 It Time permitted, I have
   1.Made the application more responsive.
+  
   2.established a connection to a storage while clicking save.
+  
   3.Tried to include files and make the whole file change fonts.
+  
 
 Unit Tests:
   giving different font-family and varient combination:
