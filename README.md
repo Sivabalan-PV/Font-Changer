@@ -16,6 +16,7 @@ Assumptions:
 3. Validated font and varient weather it is correct or not.To ensure the app works fine incase of errors.
 
 It Time permitted, I have
+
   1.Made the application more responsive.
   
   2.established a connection to a storage while clicking save.
