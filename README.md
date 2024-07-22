@@ -26,5 +26,7 @@ It Time permitted, I have
 
 Unit Tests:
   giving different font-family and varient combination:
+  
         1.font-family: Algerian Varient: 500
+        
         2.font-family: Algerian Varient: 500italic
